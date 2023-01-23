@@ -29,7 +29,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/daniel-ndung-u-55116a1a0/">
+- :mailbox:How to reach me: <a style={margin:"10px"} href="https://www.linkedin.com/in/daniel-ndung-u-55116a1a0/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 
